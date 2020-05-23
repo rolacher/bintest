@@ -1,0 +1,3 @@
+*       text=auto
+*.dotx  -text -diff -merge 
+".docx  -text -diff -merge
